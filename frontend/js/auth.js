@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api'; // Backend URL
+const API_URL = 'https://mentormee-tau.vercel.app/api'; // Backend URL
 
 // Function to show toast notifications
 function showToast(message, type = 'success') {
